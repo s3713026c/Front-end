@@ -29,4 +29,4 @@ jobs:
         app-name: 'web-appname'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_74d7ce2842664472880de2cd674c83c2 }}
-        package: '${{ github.workspace }}/target'
+        package: '${{ github.workspace }}/target/*war/'
