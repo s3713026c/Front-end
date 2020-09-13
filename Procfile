@@ -1,1 +1,1 @@
-web: java -jar target/Login.java
+web: java -jar target/
