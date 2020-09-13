@@ -1,1 +1,1 @@
-web: java -jar target/springboot-registration-login-1.0-SNAPSHOT.jar
+web: java -jar target/Login.java
